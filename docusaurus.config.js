@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '',
+  title: 'CiviCraft',
   tagline: 'The official wiki of CiviCraft',
   favicon: 'img/favicon.ico',
 
