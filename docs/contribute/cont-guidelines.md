@@ -17,5 +17,5 @@ When submitting content to the wiki, the entirety of it should be accurate and w
 All submissions cannot contain bias or advertisements and should be mostly -- if not entirely -- neutral. 
 
 #### S2.3: Contributions must be purposeful.
-Content should be submitted for good reason. 
+Content should be submitted for good reason.  
 
