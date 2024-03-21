@@ -25,3 +25,12 @@ The Reflexes Attribute makes you figuratively quicker on your feet, significantl
 
 #### Lung Capacity
 The Lung Capacity Attribute allows you to spend a longer time underwater without any special gear to extend the life of your bubbles.
+
+## Commands
+The following are commands associated with Attributes and information about them.
+
+| Command                     | Function                                        | Permission Needed   |
+|-----------------------------|-------------------------------------------------|---------------------|
+| /attributes view            | Allows you to view your attributes statistics   | None                |
+| ------------------          | ----------------------------------------------- | ------------------- |
+| /attributes view [Username] | Allows you to view another player's attributes  | None                |
