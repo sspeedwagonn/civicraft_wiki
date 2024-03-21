@@ -29,8 +29,13 @@ The Lung Capacity Attribute allows you to spend a longer time underwater without
 ## Commands
 The following are commands associated with Attributes and information about them.
 
-| Command                     | Function                                        | Permission Needed   |
-|-----------------------------|-------------------------------------------------|---------------------|
-| /attributes view            | Allows you to view your attributes statistics   | None                |
-| ------------------          | ----------------------------------------------- | ------------------- |
-| /attributes view [Username] | Allows you to view another player's attributes  | None                |
+| Command                      | Function                                        | Permission Needed   |
+|------------------------------|-------------------------------------------------|---------------------|
+| /attributes view             | Allows you to view your attributes statistics   | None                |
+| ------------------           | ----------------------------------------------- | ------------------- |
+| /attributes view [Username]  | Allows you to view another player's attributes  | None                |
+| ------------------           | ----------------------------------------------- | ------------------- |
+| /attributes help             | Shows a help menu and all commands              | None                |
+| ------------------           | ----------------------------------------------- | ------------------- |
+| /attributes info [Attribute] | Shows information about an attribute            | None                |
+| ------------------           | ----------------------------------------------- | ------------------- |
